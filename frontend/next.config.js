@@ -12,7 +12,11 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'images.pexels.com',
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'exciting-gift-8e69796398.media.strapiapp.com',
+      },
     ],
   },
 }
